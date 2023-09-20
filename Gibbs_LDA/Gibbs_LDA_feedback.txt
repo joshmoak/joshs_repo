@@ -1,0 +1,33 @@
+02/16/23 17:54
+
+Problem 1 (5 points):
+No labels on sample plots
+Score += 4
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
